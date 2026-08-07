@@ -1,0 +1,30 @@
+{
+  "timestamp": 1786142387.0163097,
+  "engine": "SyntheticArchitectureSweep-v1",
+  "note": "No preferred ratios. Ranking is by capacity-normalized robustness.",
+  "four_by_three": {
+    "A": 4,
+    "L": 3,
+    "capacity": 64,
+    "n_classes": 19,
+    "robustness": 0.0625,
+    "robustness_above_random": 0.009868421052631582,
+    "robustness_per_log_capacity": 0.002372853685672638
+  },
+  "ranked_by_normalized": [
+    {"rank": 1, "A": 3, "L": 2, "score": 0.025284422961856602},
+    {"rank": 2, "A": 6, "L": 2, "score": 0.010852151071829809},
+    {"rank": 3, "A": 4, "L": 3, "score": 0.002372853685672638},
+    {"rank": 4, "A": 6, "L": 3, "score": 0.000308625989476641},
+    {"rank": 5, "A": 5, "L": 3, "score": 0.00020151403283014417},
+    {"rank": 6, "A": 5, "L": 4, "score": 0.00013240747134866596},
+    {"rank": 7, "A": 2, "L": 2, "score": 0.0},
+    {"rank": 8, "A": 2, "L": 3, "score": 0.0},
+    {"rank": 9, "A": 4, "L": 2, "score": 0.0},
+    {"rank": 10, "A": 4, "L": 4, "score": -0.00014212404888143399},
+    {"rank": 11, "A": 3, "L": 4, "score": -0.003160552870232074},
+    {"rank": 12, "A": 3, "L": 3, "score": -0.004214070493642768},
+    {"rank": 13, "A": 5, "L": 2, "score": -0.019527669371873512},
+    {"rank": 14, "A": 2, "L": 4, "score": -0.022542110013890053}
+  ]
+}
